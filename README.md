@@ -6,4 +6,4 @@ Diary/notepad application for android
 I followed android tutorial (thanks "Coding In Flow"!) and learned more about android-coding.
 
 TODO:
-- add timestamp-funtion that would add datetime whenever you create a new note.
+- add timestamp-funtion that would add datetime when you create a new note.
